@@ -17,3 +17,8 @@ git push
 git branch
 
 git checkout -b new
+
+git checkout master
+
+
+git merge new
