@@ -1,0 +1,12 @@
+git
+
+github.com
+
+git 命令：
+git init
+
+git status
+
+
+git add .
+
