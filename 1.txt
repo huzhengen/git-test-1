@@ -7,6 +7,13 @@ git init
 
 git status
 
-
+git add 1.txt
 git add .
 
+git commit -m "新增了一个文件1.txt"
+
+git push
+
+git branch
+
+git checkout -b new
